@@ -1,0 +1,1 @@
+{"result":-1,"answer":"CODE:99 | SERV NOT ALLOWED | AVS: 0 | CVV:  | Amount: 1.56"}

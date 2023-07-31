@@ -1,0 +1,3 @@
+[04-Aug-2014 19:00:36 UTC] PHP Warning:  require(./../../../dbconnect.php): failed to open stream: No such file or directory in /home/ghostcc/public_html/paygates/callback/blockchain.php on line 3
+[04-Aug-2014 19:00:36 UTC] PHP Warning:  require(./../../../dbconnect.php): failed to open stream: No such file or directory in /home/ghostcc/public_html/paygates/callback/blockchain.php on line 3
+[04-Aug-2014 19:00:36 UTC] PHP Fatal error:  require(): Failed opening required './../../../dbconnect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ghostcc/public_html/paygates/callback/blockchain.php on line 3

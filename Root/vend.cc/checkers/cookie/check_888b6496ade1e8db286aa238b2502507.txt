@@ -1,0 +1,1 @@
+{"result":0,"answer":"CODE:14 |  CARD NO. ERROR | AVS: 0 | CVV: M | Amount: 1.5"}

@@ -1,0 +1,1 @@
+{"result":-1,"answer":"CODE:41 |    HOLD-CALL | AVS: 0 | CVV: M | Amount: 1.46"}

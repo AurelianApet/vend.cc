@@ -1,0 +1,1 @@
+{"result":-1,"answer":"CODE:EB |  CHECK DIGIT ERR | AVS: 0 | CVV:  | Amount: 1.99"}

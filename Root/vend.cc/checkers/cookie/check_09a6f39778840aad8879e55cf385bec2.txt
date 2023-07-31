@@ -1,0 +1,1 @@
+{"result":-1,"answer":"CODE:05 |     DECLINE | AVS: 0 | CVV: M | Amount: 1.57"}

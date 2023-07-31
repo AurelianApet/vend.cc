@@ -1,0 +1,9 @@
+[31-Jan-2015 07:44:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/vend/public_html/checkers/cc_checker.php on line 403
+[31-Jan-2015 08:57:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vend/public_html/checkers/cc_checker.php on line 431
+[31-Jan-2015 08:57:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/vend/public_html/checkers/cc_checker.php on line 433
+[02-Feb-2015 04:47:27 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/vend/public_html/checkers/ccv_checker.php on line 35
+[02-Feb-2015 04:47:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/vend/public_html/checkers/ccv_checker.php on line 62
+[02-Feb-2015 04:50:20 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/vend/public_html/checkers/ccv_checker.php on line 165
+[02-Feb-2015 06:49:34 UTC] PHP Fatal error:  Call to undefined function get_credit() in /home/vend/public_html/checkers/ccv_checker.php on line 289
+[02-Feb-2015 07:30:56 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/vend/public_html/checkers/ccv_checker.php on line 290
+[02-Feb-2015 07:30:56 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/vend/public_html/checkers/ccv_checker.php on line 290

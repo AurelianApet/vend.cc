@@ -1,0 +1,1 @@
+{"result":-1,"answer":"CODE:54 |   EXPIRED CARD | AVS: 0 | CVV: P | Amount: 1.89"}

@@ -1,0 +1,1 @@
+{"result":1,"answer":"CODE:00 | APPROVAL | AVS: 0 | CVV: M | Amount: 1.51"}

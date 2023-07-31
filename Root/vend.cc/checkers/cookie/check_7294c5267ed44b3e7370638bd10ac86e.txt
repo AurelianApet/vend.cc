@@ -1,0 +1,1 @@
+{"result":-1,"answer":"CODE:01 |       CALL | AVS: 0 | CVV: M | Amount: 1.78"}
